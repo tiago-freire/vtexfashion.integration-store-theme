@@ -1,0 +1,1 @@
+# vtexfashion.integration-store-theme
